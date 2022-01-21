@@ -8,5 +8,7 @@
     : JSON Parsing - 데이터를 Object로 변환하는 과정
 * Visibility 위젯 - 데이터 상태에 따라 위젯을 감추거나 보여줘야 할 때 사용
 * NumberFormat 기능 - intl 라이브러리, 가격표시할때 사용했음
-* ListView.separated - 하단에 구분선이 있는 리스트 위젯을 만들 때 사용할 수 있는 위젯
+* ListView.separated - 하단에 구분선이 있는 리스트 위젯을 만들 때 사용할 수 있는 위젯 / chat_screen에서는 ListView로 작성해봄
 * Card 위젯 - 입체감과 모서리에 곡선이 필요한 위젯으 만들 때 사용, 위젯 자체에는 크기ㅡㄹ 지정할 수 없어 부모 위젯의 제약과 자식 위젯의 크기에 따라 크기 결정
+* PreferredSize 위젯은 자식 위젯에게 어떤 제약도 부과하지 않고 부모 위젯에게 공간을 차지하는 크기만을 알려주는 위젯
+* Text.rich 위젯 - 문단 단위로 텍스트를 꾸밈

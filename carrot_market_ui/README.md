@@ -17,3 +17,16 @@
 * TextField, InputDecoration
 * 수평방향 스크롤 위젯 - 수평 스크롤 위젯의 부모 위젯은 수직 방향으로 스크롤 되느 ListView, ListView는 수직으로 스크롤 될 때 해당 방향으로 나열되는 위젯 각 각의 높이를 자식 위젯에게 위임함. 따라서 수평방향으로 스크롤하기 위해서는 고정 height값을 지정해야함
 * Wrap 위젯 - 배치하고자 하는 방향에 공간이 부족할 때 사용, 자식을 Row나 Column으로 배치, 공간이 부족해지면 자식 위젯을 다음 줄에 배치(반응형 웹에 활용 가능)
+
+
+<br>
+<br>
+<br>
+<p align = "center">
+<img src="https://user-images.githubusercontent.com/77865395/150637054-68e4aaeb-a9ee-4c3d-a915-488f2ef66f17.PNG" height = "500"/>
+<img src="https://user-images.githubusercontent.com/77865395/150637059-60049a25-da21-45de-970d-ff371d727f5d.PNG" height = "500"/>
+<img src="https://user-images.githubusercontent.com/77865395/150637130-79be59ec-e111-43ba-87c6-b64c782b96f0.PNG" height = "500"/>
+<img src="https://user-images.githubusercontent.com/77865395/150637136-5f629333-ef10-4e3b-b628-0fae7536e792.PNG" height = "500"/>
+<img src="https://user-images.githubusercontent.com/77865395/150637073-c708cbd4-d15a-47a2-8705-abec6513369f.PNG" height = "500"/>
+<img src="https://user-images.githubusercontent.com/77865395/150637079-ee190a8b-b064-4efb-8826-f4d9f239605c.PNG" height = "500"/>
+</p>                                                                         

@@ -4,3 +4,6 @@
 * 화면 이동,종료하는방법 - 로그인화면
 * Form 위젯 - 로그인화면
 * automaticallyImplyLeading - 이전 화면으로 되돌아 가는 아이콘 자동생성
+* 홈화면 TabBar
+* DefaultTabController - TabBar 또는 TabBarView 와 TabController를 공유하는데 사용되는 상속된 위젯
+* 확장 메서드(Extension methods) - numberFormat 함수

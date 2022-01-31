@@ -10,3 +10,7 @@
 * CustomScrollView
 * Sliver
 * RefreshIndicator
+* SliverList
+* SliverPadding
+* arguments 객체 설정 - 화면을 이동할 때 데이터를 전달해야 하는 상황에서 / Navigator.pushNamed 메서드에 arguments 속성 이용
+* ModalRoute 객체 - 화면이 갱신될때, 즉 build메서드가 호출될 때 ModalRoute 객체를 이용해 arguments 속성을 받을 수 있음
